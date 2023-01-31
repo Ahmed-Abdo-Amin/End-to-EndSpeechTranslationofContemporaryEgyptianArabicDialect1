@@ -1,5 +1,7 @@
 # End-to-End Speech Translation of Contemporary Egyptian Arabic Dialect
 
+## Demo, Click on the image below to watch and listen to a translation:
+
 [![AI_Microsoft1_May2022_Demo_Deployment](./imgs_GP/AI_Microsoft1_May2022_Demo_Deployment.gif)](https://youtu.be/NPDb16rVh_M)
 
 ## 1. Problem Definition:
