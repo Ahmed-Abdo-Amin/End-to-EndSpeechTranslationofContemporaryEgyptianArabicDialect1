@@ -155,14 +155,14 @@ We trained our model with the max hours that our resources could handle which is
 <hr/>
 
 ## 6. Deployment Plan
-After selecting the Champion model, we built a website with a usable interface for the end user as shown figure 9. So, the user has two options to translate Egyptian speech into English text. This website includes two components: The Frontend and the Backend.
+After selecting the Champion model, we built a website with a usable interface for the end user as shown figure 16. So, the user has two options to translate Egyptian speech into English text. This website includes two components: The Frontend and the Backend.
 ![A Website of End-to-End Speech Translation in the Egyptian Dialect](./imgs_GP/AWebsiteof%20End-to-EndSpeechTranslationintheEgyptianDialect.png)
 
 ### 6.1 Frontend web development
-We used HTML, CSS, JavaScript, jQuery, and Bootstrap to build the design of the website, so that users could view and interact with it. Through it, the user can upload an Egyptian audio file that has an extension, such as wav, mp3, flac, and others and translate an Egyptian audio into English text as shown in figure 10.
+We used HTML, CSS, JavaScript, jQuery, and Bootstrap to build the design of the website, so that users could view and interact with it. Through it, the user can upload an Egyptian audio file that has an extension, such as wav, mp3, flac, and others and translate an Egyptian audio into English text as shown in figure 17.
 ![Uploading an Egyptian audio file and translating it into English text](./imgs_GP/UploadinganEgyptianaudiofileandtranslatingitintoEnglishtext..png)
 
-In addition, the user can record Egyptian voices from the browser by following the steps shown in Figure 11:
+In addition, the user can record Egyptian voices from the browser by following the steps shown in Figure 18:
 1.	The user presses the button "Record from browser" and talks with his or her voice. The title of that button changes to "Click to stop recording". 
 2.	To stop his or her recording, the user can press the button "Click to stop recording," 
 3.	After recoding, audio appears on the browser, so the user can download and remove it from the browser and submitting his or her Egyptian voice to our model to translate into English text.
