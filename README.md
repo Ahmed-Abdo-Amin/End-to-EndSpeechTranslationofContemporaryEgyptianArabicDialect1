@@ -2,7 +2,7 @@
 
 ## Demo, Click on the image below to watch and listen to a translation:
 
-[![AI_Microsoft1_May2022_Demo_Deployment](./imgs_GP/AI_Microsoft1_May2022_Demo_Deployment.gif)](https://youtu.be/NPDb16rVh_M)
+[![AI_Microsoft1_May2022_Demo_Deployment](./imgs_GP/AI_Microsoft1_May2022_Demo_Deployment.gif)](https://www.linkedin.com/posts/ahmed-abdo-amin-abdo-b17193213_uottawa-microsoft-ast-activity-7018317535703949312--as6?utm_source=share&utm_medium=member_desktop)
 
 ## 1. Problem Definition:
 
